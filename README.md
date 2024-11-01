@@ -20,3 +20,9 @@ As part of my internship tasks, I developed this login and signup interface to p
 ## Technology
 
 - **Design Tool**: Figma
+
+Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions.
+
+License
+This project is licensed under the [Karthik Vishwajeeth S].
